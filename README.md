@@ -17,7 +17,7 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
  
 ## Github Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=vt92i&show_icons=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=vt92i&show_icons=true&count_private=true&theme=tokyonight)
 
 ## Top Languages
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vt92i&layout=compact&langs_count=10)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vt92i&layout=compact&langs_count=10&theme=tokyonight)
