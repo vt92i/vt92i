@@ -22,6 +22,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vt92i&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=vt92i&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 ## 🔥 Top Languages
