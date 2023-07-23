@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, fellow tech enthusiasts! I'm Ethan. </h1>
+<h1 align="center">👋 Hey there, fellow tech enthusiasts! I'm Fila. </h1>
 <p align="center">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="100"/>
 </p>
